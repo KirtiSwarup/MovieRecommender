@@ -2,7 +2,8 @@
 
 Welcome to **MovieFinder Pro**! 🌟 Your ultimate movie discovery companion, powered by advanced **Natural Language Processing (NLP)** and recommendation algorithms. Whether you're looking for similar movies based on cast, genres, or production companies, or exploring detailed movie information, we’ve got it all in one seamless **Streamlit** interface.
 
-![MovieFinder Pro](https://github.com/user-attachments/assets/649761ba-ab79-47ae-bb70-9707030797c7)
+![image](https://github.com/user-attachments/assets/85e6a63d-3b04-433d-b872-2d79752fb8ac)
+
 
 ## ✨ Features
 
